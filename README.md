@@ -11,6 +11,12 @@ i am passionate about programming, design patterns and software architecture. I 
 - 👩🏻  I'm married
 - 😺  I have a cat
 
+#### My favorite technologies
+
+- React
+- React Native
+- Nodejs
+
 Reach out me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Leão-3e65cf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/henrique-braga) 
