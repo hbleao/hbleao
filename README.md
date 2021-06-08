@@ -1,16 +1,17 @@
-### Hi there 👋
+# Heyyy ✌🏻!
 
-<!--
-**hbleao/hbleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Henrique Leão, I'm from brazil 🇧🇷, I'm software developer, that has been working as a Frontend since 2017. 🚀
 
-Here are some ideas to get you started:
+i am passionate about programming, design patterns and software architecture. I am always keeping up to date with the trends in the js world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About me
+
+- 🌏 I'm From Porto Alegre
+- 🧑🏻‍💻 I'm frontend developer at [Softvaro](https://softvaro.com.br/)
+- 👩🏻 I'm married
+- 😺 I have a cat
+
+Reach out me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Leão-3e65cf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/henrique-braga) 
+[![Gmail Badge](https://img.shields.io/badge/-hbragaleao@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hbragaleao@gmail.com)](mailto:hbragaleao@gmail.com)
