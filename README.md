@@ -11,6 +11,11 @@ I am passionate about programming, design patterns and software architecture. I 
 - 👩🏻  Married
 - 😺  I have a cat
 
+Reach out me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Leão-3e65cf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/henrique-braga) 
+[![Gmail Badge](https://img.shields.io/badge/-hbragaleao@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hbragaleao@gmail.com)](mailto:hbragaleao@gmail.com)
+
 #### My favorite technologies
 
 <img align="left" width="26px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -20,9 +25,3 @@ I am passionate about programming, design patterns and software architecture. I 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</br>
-
-Reach out me
-
-[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Leão-3e65cf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/henrique-braga) 
-[![Gmail Badge](https://img.shields.io/badge/-hbragaleao@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hbragaleao@gmail.com)](mailto:hbragaleao@gmail.com)
