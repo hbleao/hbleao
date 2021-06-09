@@ -6,7 +6,7 @@ I am passionate about programming, design patterns and software architecture. I 
 
 #### About me
 
-- 🌏  I'm From Porto Alegre
+- 🌏  I'm From Porto Alegre / RS
 - 🧑🏻‍💻  Frontend developer at [Softvaro](https://softvaro.com.br/)
 - 👩🏻  Married
 - 😺  I have a cat
