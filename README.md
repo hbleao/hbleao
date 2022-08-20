@@ -1,4 +1,4 @@
-# Heyyy ✌🏻!
+# Hello there ✌🏻!
 
 My name is Henrique Leão, I'm from brazil 🇧🇷, I'm software developer, that has been working as a Frontend since 2017.  🚀
 
@@ -6,10 +6,10 @@ I am passionate about programming, design patterns and software architecture. I 
 
 #### About me
 
-- 🌏  I'm From Porto Alegre / RS
+- 🌏  I'm from Porto Alegre / RS
 - 🧑🏻‍💻  Frontend developer at [Softvaro](https://softvaro.com.br/)
 - 👩🏻  Married
-- 😺  I have a cat
+- 😺  I have a cat (Bolota)
 
 Reach out me
 
