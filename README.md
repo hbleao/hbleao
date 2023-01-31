@@ -7,9 +7,9 @@ I am passionate about programming, design patterns and software architecture. I 
 #### About me
 
 - 🌏  I'm from Porto Alegre / RS
-- 🧑🏻‍💻  Frontend developer at [Softvaro](https://softvaro.com.br/)
-- 👩🏻  Married
-- 😺  I have a cat (Bolota)
+- 🧑🏻‍💻  Frontend Senior developer at [Porto](https://www.portoseguro.com.br/)
+- 👩🏻  Married with Yasmin
+- 😺  I have a fat cat (Bolota)
 
 Reach out me
 
